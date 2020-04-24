@@ -20,5 +20,12 @@ _>Download It And Install It On Google Play >If You Want Ads<<_
  # What Should I Install(Windows-PC)
  **No Need To Install Anything Just Follow This**
  1. Go to This-PC And Right Click ..To Add New Network Location
- <br>
- ![](https://github.com/Dilushanpieris/PC-2-Android-FTP/blob/master/images/Screenshot%20(2).png)
+![](https://github.com/Dilushanpieris/PC-2-Android-FTP/blob/master/images/Screenshot%20(2).png)
+
+# Connecting PC And Android Together
+
+**Make Sure Your Both Devices Are On Same Wifi NEtwork Otherwise It Won't Work**
+
+![](https://github.com/Dilushanpieris/PC-2-Android-FTP/blob/master/images/Screenshot%20(3).png)
+<br>
+*follow Those Images*
