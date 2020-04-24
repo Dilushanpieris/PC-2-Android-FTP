@@ -38,4 +38,4 @@ _>Download It And Install It On Google Play >If You Want Ads<<_
 ![](https://github.com/Dilushanpieris/PC-2-Android-FTP/blob/master/images/Screenshot%20(6).png)
 **Now You Can See The Network Location 
 ![](https://github.com/Dilushanpieris/PC-2-Android-FTP/blob/master/images/Screenshot%20(7).png)
-**now You Can Transfer Files Between Devices**
+**Now You Can Transfer Files Between Devices**
