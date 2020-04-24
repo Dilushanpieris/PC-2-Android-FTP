@@ -1,7 +1,7 @@
 # PC-2-Android-FTP
 This Can Transfer Files And Data Between Mobile Android Device And Windows PC
 
-# prerequisites
+# Prerequisites
 
 1. You Need A Computer That Running Windows 7 Or Above
 1. Mobile With Android 
