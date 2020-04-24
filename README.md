@@ -28,4 +28,14 @@ _>Download It And Install It On Google Play >If You Want Ads<<_
 
 ![](https://github.com/Dilushanpieris/PC-2-Android-FTP/blob/master/images/Screenshot%20(3).png)
 <br>
-*follow Those Images*
+*follow This Images*
+![](https://github.com/Dilushanpieris/PC-2-Android-FTP/blob/master/images/Screenshot%20(8).png)
+**Use Your URL OF FTP Here**
+![](https://github.com/Dilushanpieris/PC-2-Android-FTP/blob/master/images/Screenshot%20(4).png)
+**Click Anonymously Sign IN**
+![](https://github.com/Dilushanpieris/PC-2-Android-FTP/blob/master/images/Screenshot%20(5).png)
+**Type Name As Above**
+![](https://github.com/Dilushanpieris/PC-2-Android-FTP/blob/master/images/Screenshot%20(6).png)
+**Now You Can See The Network Location 
+![](https://github.com/Dilushanpieris/PC-2-Android-FTP/blob/master/images/Screenshot%20(7).png)
+**now You Can Transfer Files Between Devices**
