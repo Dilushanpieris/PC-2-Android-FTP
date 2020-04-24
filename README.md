@@ -14,4 +14,11 @@ _>Download It And Install It On Google Play >If You Want Ads<<_
 
 **Now Start The Server On Your Android Phone**
  ![Android_LOG](https://github.com/Dilushanpieris/PC-2-Android-FTP/blob/master/images/Screenshot_20200424-085910708.jpg)
- *Now You Can See The Server URL .*
+ <br>
+ **Now You Can See The Server URL OF Your FTP**
+ 
+ # What Should I Install(Windows-PC)
+ **No Need To Install Anything Just Follow This**
+ 1. Go to This-PC And Right Click ..To Add New Network Location
+ <br>
+ ![](https://github.com/Dilushanpieris/PC-2-Android-FTP/blob/master/images/Screenshot%20(2).png)
